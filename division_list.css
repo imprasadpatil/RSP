@@ -1,0 +1,17 @@
+#divibgimh>img{
+    height: 100%;
+    width: 100%;
+}
+#divisionlisting{
+    background-image: url(../Assets/MAH_MAP.jpg);
+    background-size: 100% 600px;
+    background-repeat: no-repeat;
+    height: 600px;
+    border: solid 5px rgb(255, 151, 60);
+    padding: 5px;
+    
+}
+#divicard{
+    margin: 10px;
+    box-shadow: 10 20 10;
+}

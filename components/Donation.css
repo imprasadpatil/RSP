@@ -1,0 +1,29 @@
+#donationinf{
+    margin-top: 10px;
+    background-color: rgb(239, 240, 230);
+    border-radius: 20px;
+    box-shadow: 10px 10px 5px rgb(157, 163, 165);
+}
+
+
+#content{
+    height: auto;
+    padding: 40px;
+    box-shadow: 10 12 10 black;
+}
+
+#bankinfo{
+    margin-top: 10px;
+    background-color: rgb(239, 240, 230);
+    
+    box-shadow: 10px 10px 5px rgb(157, 163, 165);
+    padding: 50px;
+}
+#qr-img>img{
+    height: 300px;
+    width: 300px;
+    }
+
+    #upi{
+        margin-top: 20px;
+    }

@@ -1,0 +1,20 @@
+.container{
+    margin-top: 10px;
+    background-color: rgb(239, 240, 230);
+    border-radius: 20px;
+    box-shadow: 10px 10px 5px rgb(157, 163, 165);
+}
+#expdition{
+    height: auto;
+    padding: 10px;
+}
+#exp-gallary{
+    padding: 5px;
+}
+#gallary-img>img {
+    border: 5px solid #555;
+    padding: 5px;
+    margin-top: 5px;
+    height: 300px;
+    width: 300px;
+  }

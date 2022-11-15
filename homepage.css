@@ -14,20 +14,15 @@
     height: 500px;
     width: 100%;
 }
-#tagline{
-    height: 100px;
-    border: solid 5px rgb(253, 78, 25);
-    color: rgb(25, 15, 27);
-    text-align: center;
-    margin-top: 10px;
-    padding-top: 20px;
+#workdone{
+    padding: 10px;
+    background-color: rgb(239, 240, 230);
+    box-shadow: 10px 10px 5px rgb(157, 163, 165);
+    margin-top: 15px;
 }
-#cardcoll{
-    height: auto;
-   
-    margin-top: 10px;
-}
-.card{
-    margin: 5px;
-    
+#Divisions{
+    padding: 10px;
+    background-color: rgb(239, 240, 230);
+    box-shadow: 10px 10px 5px rgb(157, 163, 165);
+    margin-top: 15px; 
 }

@@ -1,0 +1,19 @@
+#Rules{
+    margin-top: 10px;
+    background-color: rgb(239, 240, 230);
+    border-radius: 20px;
+    box-shadow: 10px 10px 5px rgb(157, 163, 165);
+}
+#Rules>h1{
+    margin-top: 10px;
+}
+
+#logoimg{
+width: 100%;
+}
+#content{
+    height: auto;
+    padding: 40px;
+    box-shadow: 10 12 10 black;
+    border-left: 1px solid black ;
+}

@@ -1,0 +1,12 @@
+#coverimg{
+    height: 500px;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size: 100% 300px;
+}
+#divicontent{
+    text-align: center;
+    border: solid rgb(96, 16, 16);
+    padding: 10px;
+    background-color: rgb(239, 240, 230);
+}

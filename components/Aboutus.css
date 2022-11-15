@@ -1,0 +1,79 @@
+#abtinf{
+    margin-top: 10px;
+    background-color: rgb(239, 240, 230);
+    border-radius: 20px;
+    box-shadow: 10px 10px 5px rgb(157, 163, 165);
+}
+
+#logoimg{
+width: 100%;
+}
+#content{
+    height: auto;
+    padding: 40px;
+    box-shadow: 10 12 10 black;
+}
+
+#workstyle{
+   
+    border-right-style :double;
+    border-left-style :double;
+    margin-top: 20px;
+    padding: 10px;
+    background-color: rgb(239, 240, 230);
+    border-radius: 20px;
+    box-shadow: 10px 10px 5px rgb(157, 163, 165);
+    
+}
+.card-workstyle{
+    
+    box-shadow: 10px 10px 5px rgb(157, 163, 165);
+    margin-bottom: 10px;
+    padding: 5px;
+
+}
+.card-img-top{
+    height: 200px;
+    width: 150px;
+    padding: 20px;
+}
+#workdone{
+    
+    border-right-style :double;
+    border-left-style :double;
+    padding: 10px;
+    background-color: rgb(239, 240, 230);
+    border-radius: 20px;
+    box-shadow: 10px 10px 5px rgb(157, 163, 165);
+    margin-top: 15px;
+}
+#aims{
+    border-right-style :double;
+    border-left-style :double;
+    padding: 10px;
+    background-color: rgb(239, 240, 230);
+    border-radius: 20px;
+    box-shadow: 10px 10px 5px rgb(157, 163, 165);
+      
+
+}
+.card{
+    margin: 10px;
+}
+.aim-img{
+    height: 50px;
+    width: 50px;
+    align-items: center;
+}
+
+#geography{
+    margin-top: 10px;
+    background-color: rgb(239, 240, 230);
+    border-radius: 20px;
+    box-shadow: 10px 10px 5px rgb(157, 163, 165);
+}
+#geography>img{
+    height: 600px;
+    width: 80%;
+    align-items: center;
+}
